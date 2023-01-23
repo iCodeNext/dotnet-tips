@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/iCodeNext/obj/Debug/net7.0/iCodeNext.assets.cache
+/iCodeNext/obj/project.nuget.cache
+/iCodeNext/obj/Debug/net7.0/iCodeNext.GeneratedMSBuildEditorConfig.editorconfig
+/iCodeNext/obj/Debug/net7.0/iCodeNext.csproj.AssemblyReference.cache
+/iCodeNext/obj/Debug/net7.0/iCodeNext.AssemblyInfoInputs.cache
