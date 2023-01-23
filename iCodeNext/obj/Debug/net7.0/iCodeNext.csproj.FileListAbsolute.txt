@@ -1,0 +1,15 @@
+C:\Users\Mohammad\Repository\Content\C#\Repository\dotnet-tips\iCodeNext\bin\Debug\net7.0\iCodeNext.exe
+C:\Users\Mohammad\Repository\Content\C#\Repository\dotnet-tips\iCodeNext\bin\Debug\net7.0\iCodeNext.deps.json
+C:\Users\Mohammad\Repository\Content\C#\Repository\dotnet-tips\iCodeNext\bin\Debug\net7.0\iCodeNext.runtimeconfig.json
+C:\Users\Mohammad\Repository\Content\C#\Repository\dotnet-tips\iCodeNext\bin\Debug\net7.0\iCodeNext.dll
+C:\Users\Mohammad\Repository\Content\C#\Repository\dotnet-tips\iCodeNext\bin\Debug\net7.0\iCodeNext.pdb
+C:\Users\Mohammad\Repository\Content\C#\Repository\dotnet-tips\iCodeNext\obj\Debug\net7.0\iCodeNext.csproj.AssemblyReference.cache
+C:\Users\Mohammad\Repository\Content\C#\Repository\dotnet-tips\iCodeNext\obj\Debug\net7.0\iCodeNext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammad\Repository\Content\C#\Repository\dotnet-tips\iCodeNext\obj\Debug\net7.0\iCodeNext.AssemblyInfoInputs.cache
+C:\Users\Mohammad\Repository\Content\C#\Repository\dotnet-tips\iCodeNext\obj\Debug\net7.0\iCodeNext.AssemblyInfo.cs
+C:\Users\Mohammad\Repository\Content\C#\Repository\dotnet-tips\iCodeNext\obj\Debug\net7.0\iCodeNext.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad\Repository\Content\C#\Repository\dotnet-tips\iCodeNext\obj\Debug\net7.0\iCodeNext.dll
+C:\Users\Mohammad\Repository\Content\C#\Repository\dotnet-tips\iCodeNext\obj\Debug\net7.0\refint\iCodeNext.dll
+C:\Users\Mohammad\Repository\Content\C#\Repository\dotnet-tips\iCodeNext\obj\Debug\net7.0\iCodeNext.pdb
+C:\Users\Mohammad\Repository\Content\C#\Repository\dotnet-tips\iCodeNext\obj\Debug\net7.0\iCodeNext.genruntimeconfig.cache
+C:\Users\Mohammad\Repository\Content\C#\Repository\dotnet-tips\iCodeNext\obj\Debug\net7.0\ref\iCodeNext.dll
