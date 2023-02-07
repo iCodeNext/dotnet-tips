@@ -1,8 +1,21 @@
-﻿using System;
+﻿using System.Collections.Generic;
 
-public class Program
+//IEnumerable
+//ICollection
+//IList
+var result = GetAllIdsByCollection();
+
+IEnumerable<int> GetAllIds()
 {
-    public static void Main()
-    {
-    }
+    return null;
+}
+
+ICollection<int> GetAllIdsByCollection()
+{
+    return null;
+}
+
+IList<int> GetAllIdsByList()
+{
+    return null;
 }

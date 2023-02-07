@@ -1,4 +1,0 @@
-﻿@hostname = dummyjson.com
-@port = 443
-
-Get https://{{hostname}}:{{port}}/products/1
